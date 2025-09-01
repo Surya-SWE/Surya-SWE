@@ -86,13 +86,13 @@
 <div align="center">
 
 ### 📧 Gmail RAG Pipeline | AI-Powered Email System
-[![Gmail RAG](https://img.shields.io/badge/View%20Project-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white)](https://github.com/Surya-SWE)
+[![Gmail RAG](https://img.shields.io/badge/View%20Project-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white)](https://github.com/Surya-SWE/RAG_Gmail)
 
 **Technologies:** Python • Gmail API • Pinecone • Ollama LLMs  
 **Impact:** 80% reduction in email search time using vector similarity search
 
 ### 🏥 Medical Chatbot | Healthcare Information Assistant  
-[![Medical Bot](https://img.shields.io/badge/View%20Project-4ECDC4?style=for-the-badge&logo=robot&logoColor=white)](https://github.com/Surya-SWE)
+[![Medical Bot](https://img.shields.io/badge/View%20Project-4ECDC4?style=for-the-badge&logo=robot&logoColor=white)](http://43.205.98.145:8080/)
 
 **Technologies:** RAG • LangChain • Google Gemini 2.0 • Pinecone  
 **Features:** Processes 1000+ medical PDFs with semantic search capabilities
@@ -118,8 +118,8 @@
 
 <div align="center">
   
-[![LeetCode](https://img.shields.io/badge/LeetCode-500%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/your-profile)
-[![50 Days Badge](https://img.shields.io/badge/LeetCode-50%20Days%20Badge%202023-00B4D8?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/your-profile)
+[![LeetCode](https://img.shields.io/badge/LeetCode-500%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/surya_inspired/)
+[![50 Days Badge](https://img.shields.io/badge/LeetCode-50%20Days%20Badge%202023-00B4D8?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/surya_inspired/)
 [![Calligraphy Award](https://img.shields.io/badge/Calligraphy%20Award-5K%20Prize-FFD60A?style=for-the-badge&logo=award&logoColor=black)]()
 
 </div>
@@ -135,8 +135,8 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surya-potnuru-965399209/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/surya_inspired/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Surya-SWE)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suryapotnuru2023@gmail.com)
 
