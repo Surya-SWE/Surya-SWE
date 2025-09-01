@@ -92,7 +92,8 @@
 **Impact:** 80% reduction in email search time using vector similarity search
 
 ### 🏥 Medical Chatbot | Healthcare Information Assistant  
-[![Medical Bot](https://img.shields.io/badge/View%20Project-4ECDC4?style=for-the-badge&logo=robot&logoColor=white)](http://43.205.98.145:8080/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-4ECDC4?style=for-the-badge&logo=streamlit&logoColor=white)](http://43.205.98.145:8080/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Surya-SWE/Medical-Chatbot)
 
 **Technologies:** RAG • LangChain • Google Gemini 2.0 • Pinecone  
 **Features:** Processes 1000+ medical PDFs with semantic search capabilities
