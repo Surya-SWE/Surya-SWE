@@ -87,7 +87,7 @@
 
 ### 📊 AI Stock Assistant | Real-Time Market Insights Chatbot
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=rocket&logoColor=white)](http://13.126.2.5:8080/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://lnkd.in/ghE2cVYV)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Surya-SWE/realtime_stock_insights)
 [![LinkedIn Post](https://img.shields.io/badge/LinkedIn%20Demo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/update/urn:li:activity:7368562950451699712/)
 
 **Technologies:** LangGraph • Tavily API • Gemini 2.5 Flash • Flask • Docker • AWS EC2  
